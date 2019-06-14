@@ -1,3 +1,9 @@
+nfs-ganesha (2.7.4-1croit1.1) stretch; urgency=medium
+
+  * ganesha 2.7.4 with libntirpc 1.7.4
+
+ -- Paul Emmerich <paul.emmerich@croit.io>  Fri, 14 Jun 2019 19:15:10 +0200
+
 nfs-ganesha (2.7.0-1croit1.1) stretch; urgency=medium
 
   * ganesha 2.7 with libntirpc 1.7.0
