@@ -33,11 +33,14 @@ Depends: dbus,
          nfs-common,
          rpcbind,
          ${perl:Depends},
+         ${python:Depends},
          ${misc:Depends},
          libwbclient0,
          libntirpc1 (>= 1.5.3),
          libtirpc1 | libtirpc3,
          libcephfs2,
+         python-gi,
+         python-dbus,
          daemon
 Description: nfs-ganesha is a NFS server in User Space
  NFS-GANESHA is a NFS Server running in user space with a large cache.
