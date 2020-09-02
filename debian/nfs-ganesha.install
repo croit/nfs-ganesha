@@ -5,3 +5,5 @@ lib/systemd/system/nfs-ganesha*
 usr/bin/ganesha.nfsd
 usr/lib/ganesha/nfs-ganesha-config.sh
 usr/lib/*/ganesha/lib*.so*
+usr/lib/python2.7/site-packages/Ganesha/glib_dbus_stats.py
+usr/bin/ganesha_stats
