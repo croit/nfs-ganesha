@@ -1,7 +1,7 @@
 Source: nfs-ganesha
 Section: net
 Priority: optional
-Maintainer: Paul Emmerich <paul.emmerich@croit.io>
+Maintainer: Nicolas Lindae <nicolas.lindae@croit.io>
 Standards-Version: 3.9.8
 Homepage: https://croit.io
 Build-Depends: debhelper (>= 9),

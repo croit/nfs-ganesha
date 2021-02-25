@@ -1,6 +1,6 @@
 Format-Specification: http://svn.debian.org/wsvn/dep/web/deps/dep5.mdwn?op=file&rev=135
 Name: nfs-ganesha
-Maintener: Paul Emmerich <paul.emmerich@croit.io>
+Maintainer: Nicolas Lindae <nicolas.lindae@croit.io>
 Source: https://github.com/croit/nfs-ganesha
 
 Copyright: 2008-2010 Philippe Deniel <philippe.deniel@cea.fr>
